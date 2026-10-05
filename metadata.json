@@ -1,0 +1,6 @@
+{
+  "name": "Cambridge Phonics & Reading Safari - Primary 2",
+  "description": "Interactive phonics, visual vocabulary, sound buttons, and decodable stories aligned with Cambridge Stage 2 for ESL and emerging readers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
